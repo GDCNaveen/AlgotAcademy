@@ -13,11 +13,11 @@ const Header = ({ isVisible }: HeaderProps) => {
   const navigate = useNavigate();
 
   const menuItems = [
-    { name: "CH:1 Real Numbers", path: "/Real Numbers" },
-    { name: "CH:2 Sets", path: "/Sets" },
-    { name: "CH:3 Polynomials", path: "/Polynomials" },
-    { name: "CH:4 Logorithms", path: "/Logorithms" },
-    { name: "CH:5 Algebra", path: "/Algebra" },
+    { name: "CH-1 Real Numbers", path: "/Real Numbers" },
+    { name: "CH-2 Sets", path: "/Sets" },
+    { name: "CH-3 Polynomials", path: "/Polynomials" },
+    { name: "CH-4 Logorithms", path: "/Logorithms" },
+    { name: "CH-5 Algebra", path: "/Algebra" },
     { name: "Downloads", path: "/downloads" },
     { name: "Contact", path: "/contact" },
   ];
