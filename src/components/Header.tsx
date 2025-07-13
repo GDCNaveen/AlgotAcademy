@@ -13,7 +13,7 @@ const Header = ({ isVisible }: HeaderProps) => {
   const navigate = useNavigate();
 
   const menuItems = [
-    { name: "CH:1 Real Numbers", path: "/" },
+    { name: "CH:1 Real Numbers", path: "/Real Numbers" },
     { name: "CH:2 Sets", path: "/Sets" },
     { name: "CH:3 Polynomials", path: "/Polynomials" },
     { name: "CH:4 Logorithms", path: "/Logorithms" },
