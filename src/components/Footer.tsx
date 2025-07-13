@@ -35,7 +35,7 @@ const Footer = () => {
               <img src="/college-logo.png" alt="College Logo" className="w-10 h-10 rounded-full" />
             </div>
             <div className="text-white">
-              <h3 className="font-semibold text-lg">Dr.T.Peddanna</h3>
+              <h3 className="font-semibold text-lg">O. Srinivas</h3>
               <p className="text-gray-300">Educator</p>
               <div className="flex items-center gap-2 mt-1">
                 <Phone className="w-4 h-4" />
