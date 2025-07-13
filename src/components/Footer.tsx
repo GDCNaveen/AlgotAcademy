@@ -9,7 +9,7 @@ const Footer = () => {
           {/* First Person - Naveen */}
           <div className="flex items-start gap-4">
             <div className="college-logo flex-shrink-0">
-              <img src="/college-logo.png" alt="College Logo" className="w-10 h-10 rounded-full" />
+              <img src="/Naveen.png" alt="College Logo" className="w-10 h-10 rounded-full" />
             </div>
             <div className="text-white">
               <h3 className="font-semibold text-lg">Naveen</h3>
