@@ -12,11 +12,11 @@ const Index = () => {
   const collegeContent = [
     {
       id: 1,
-      type: "image" as const,
-      title: "Government Degree College, Morthad - Campus Overview",
-      description: "Welcome to Government Degree College, Morthad - a premier educational institution committed to excellence in higher education. Our beautiful campus spans across lush green acres, providing an ideal environment for learning and personal growth. Established with the vision of providing quality education to students from all backgrounds, our college stands as a beacon of knowledge and opportunity in the region.",
-      category: "Campus",
-      imageUrl: "https://images.unsplash.com/photo-1562774053-701939374585?w=800&h=450&fit=crop",
+      type: "video" as const,
+      title: "CH 1 - Real Numbers, Part-1",
+      description: "Chapter-1, Real Numbers Part 1 Video",
+      category: "10th Class Maths",
+      videoUrl: "https://player.vimeo.com/video/1095510347?h=adbdfa174b&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479",
     },
     {
       id: 2,
