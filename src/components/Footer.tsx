@@ -9,7 +9,7 @@ const Footer = () => {
           {/* First Person - Naveen */}
           <div className="flex items-start gap-4">
             <div className="college-logo flex-shrink-0">
-              <img src="/Naveen.png" alt="College Logo" className="w-30 h-30 rounded-full" />
+              <img src="/Naveen.png" alt="College Logo" className="w-30 h-25 rounded-full" />
             </div>
             <div className="text-white">
               <h3 className="font-semibold text-lg">A. Naveen</h3>
@@ -22,9 +22,9 @@ const Footer = () => {
                 <Mail className="w-4 h-4" />
                 <span className="text-sm">algotnaveen@gmail.com</span>
               </div>
-              <div className="flex items-center gap-2 mt-1">
+              {/*<div className="flex items-center gap-2 mt-1">
                 <Globe className="w-4 h-4" />
-                {/*<span className="text-sm">www.algotnaveen.com</span>*/}
+                <span className="text-sm">www.algotnaveen.com</span>*/}
               </div>
             </div>
           </div>
