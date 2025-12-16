@@ -3,7 +3,7 @@ import { Heart } from "lucide-react";
 const DonateBanner = () => {
   return (
     <a
-      href="https://docs.google.com/forms/d/e/1FAIpQLSexample/viewform"
+      href="https://forms.gle/ro8q7qQN9yKzorXG9"
       target="_blank"
       rel="noopener noreferrer"
       className="block relative overflow-hidden p-4 mx-4 rounded-xl shadow-card hover:shadow-elevated transition-all duration-300 hover:-translate-y-0.5"
