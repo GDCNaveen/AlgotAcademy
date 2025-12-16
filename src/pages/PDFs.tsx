@@ -45,63 +45,63 @@ const pdfTopics: PDFTopic[] = [
     subject: "Mathematics",
     topic: "Algebra (Bank Exams)",
     price: "₹10",
-    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-mat01/viewform",
+    formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
     code: "AA-MAT-02",
     subject: "Mathematics",
     topic: "Mensuration & Geometry",
     price: "₹10",
-    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-mat02/viewform",
+    formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
     code: "AA-POL-01",
     subject: "Indian Polity",
     topic: "Constitution Basics",
     price: "₹10",
-    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-pol01/viewform",
+    formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
     code: "AA-HIS-01",
     subject: "Indian History",
     topic: "Freedom Movement",
     price: "₹10",
-    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-his01/viewform",
+    formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
     code: "AA-CA-0125",
     subject: "Current Affairs",
     topic: "January 2025",
     price: "₹10",
-    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-ca0125/viewform",
+    formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
     code: "AA-TSH-01",
     subject: "Telangana History",
     topic: "Telangana Movement",
     price: "₹10",
-    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-tsh01/viewform",
+    formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
     code: "AA-GEO-01",
     subject: "Geography",
     topic: "Indian Geography Basics",
     price: "₹10",
-    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-geo01/viewform",
+    formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
     code: "AA-ECO-01",
     subject: "Economy",
     topic: "Indian Economy Overview",
     price: "₹10",
-    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-eco01/viewform",
+    formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
     code: "AA-SCI-01",
     subject: "Science",
     topic: "General Science",
     price: "₹10",
-    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-sci01/viewform",
+    formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
 ];
 
@@ -183,7 +183,7 @@ const PDFs = () => {
         {/* Get PDF Button - Shows when subject is selected */}
         {selectedSubject !== "ALL" && (
           <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLSexample-bulk/viewform"
+            href="https://forms.gle/NkK8TiJJYco4aEZU7"
             target="_blank"
             rel="noopener noreferrer"
             className="block mb-6"
