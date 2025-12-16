@@ -217,7 +217,7 @@ const PDFs = () => {
             <Table>
               <TableHeader>
                 <TableRow className="bg-muted/50">
-                  <TableHead className="font-semibold">Topic Code</TableHead>
+                  {/* <TableHead className="font-semibold">Topic Code</TableHead> */}
                   <TableHead className="font-semibold">Topic</TableHead>
                   <TableHead className="font-semibold text-center">Action</TableHead>
                 </TableRow>
