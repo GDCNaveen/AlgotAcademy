@@ -20,7 +20,7 @@ import {
 } from "@/components/ui/select";
 
 interface PDFTopic {
-  code: string;
+  //code: string;
   subject: string;
   topic: string;
   price: string;
@@ -41,63 +41,63 @@ const subjects = [
 
 const pdfTopics: PDFTopic[] = [
   {
-    code: "AA-MAT-01",
+    //code: "AA-MAT-01",
     subject: "Mathematics",
     topic: "Algebra (Bank Exams)",
     price: "₹10",
     formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
-    code: "AA-MAT-02",
+    //code: "AA-MAT-02",
     subject: "Mathematics",
     topic: "Mensuration & Geometry",
     price: "₹10",
     formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
-    code: "AA-POL-01",
+    //code: "AA-POL-01",
     subject: "Indian Polity",
     topic: "Constitution Basics",
     price: "₹10",
     formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
-    code: "AA-HIS-01",
+    //code: "AA-HIS-01",
     subject: "Indian History",
     topic: "Freedom Movement",
     price: "₹10",
     formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
-    code: "AA-CA-0125",
+    //code: "AA-CA-0125",
     subject: "Current Affairs",
     topic: "January 2025",
     price: "₹10",
     formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
-    code: "AA-TSH-01",
+    //code: "AA-TSH-01",
     subject: "Telangana History",
     topic: "Telangana Movement",
     price: "₹10",
     formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
-    code: "AA-GEO-01",
+    //code: "AA-GEO-01",
     subject: "Geography",
     topic: "Indian Geography Basics",
     price: "₹10",
     formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
-    code: "AA-ECO-01",
+    //code: "AA-ECO-01",
     subject: "Economy",
     topic: "Indian Economy Overview",
     price: "₹10",
     formUrl: "https://forms.gle/NkK8TiJJYco4aEZU7",
   },
   {
-    code: "AA-SCI-01",
+    //code: "AA-SCI-01",
     subject: "Science",
     topic: "General Science",
     price: "₹10",
